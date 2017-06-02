@@ -1,0 +1,24 @@
+{
+  "name": "vietnam-phone-mask",
+  "version": "1.0.0",
+  "description": "Simple JS library for validate vietnamese phone number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namcv/vietnamese-phone-mask.git"
+  },
+  "keywords": [
+    "vietnamese",
+    "phone",
+    "mask"
+  ],
+  "author": "namcv.me, thotp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namcv/vietnamese-phone-mask/issues"
+  },
+  "homepage": "https://github.com/namcv/vietnamese-phone-mask#readme"
+}
